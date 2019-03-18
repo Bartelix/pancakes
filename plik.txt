@@ -1,4 +1,4 @@
-Bartlomiej Bartoszewicz, cos tam
+Bartlomiej Bartoszewicz, to nie taki git człowiek
 18.03.2019
 
 Zajecia z Git
