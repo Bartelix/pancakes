@@ -1,4 +1,4 @@
 Bartlomiej Bartoszewicz, to nie taki git człowiek
-18.03.2019
+18.03.2028
 
 Zajecia z Git
